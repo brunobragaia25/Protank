@@ -612,7 +612,7 @@
   color: #fff;
   margin-bottom: 24px;
   font-family: Clashgrotesk Variable, sans-serif;
-  font-size: 28px;
+  font-size: 24px;
   line-height: 32px;
 }
 
@@ -1356,6 +1356,12 @@
   text-decoration: none;
 }
 
+.image-9 {
+  max-width: 60%;
+  margin-top: 0;
+  padding-top: 28px;
+}
+
 @media screen and (max-width: 991px) {
   .div-block {
     width: 100%;
@@ -2011,6 +2017,10 @@
   .link-block-7 {
     width: 100%;
     max-width: none;
+  }
+
+  .image-9 {
+    padding-top: 16px;
   }
 }
 
